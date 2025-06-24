@@ -24,6 +24,8 @@ This repository contains the completed tasks for the AI/ML Engineering Internshi
 - Chatbot Design & Ethical Awareness
 - conversational agents
 
+- ## More than that worked with team, solved problem with team, collaborative work and problem solving skills 
+
 ## 📦 Tools Used
 
 - Python
